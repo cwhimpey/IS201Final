@@ -1,0 +1,51 @@
+body {
+    background-color: #555555;
+    font-family: verdana, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableau {
+    border: solid 2px rgb(70, 69, 69);
+    background-color: #868585;  
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 60px;
+    left: 5px;
+    right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    top: 123px;
+}
+.curtis {
+    font-size: 35 px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.navy{
+    color: navy;
+}
+
+.myfooter {
+    text-align: cetner;
+    font-size: 10px;
+    color:tomato;
+}
+
+h1 {
+    color: navy;
+    font-size: 40px;
+    text-align:center;
+}
